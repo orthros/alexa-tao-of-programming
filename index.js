@@ -38,12 +38,12 @@ var TAOS = [
     "After three days without programming, life becomes meaningless.",
 
     "The programmers of old were mysterious and profound. "+
-    "We cannot fathom their thoughts, so all we do is describe their appearance." +
+    "We cannot fathom their thoughts, so all we do is describe their appearance. " +
     "Aware, like a fox crossing the water. "+
     "Alert, like a general on the battlefield. " +
     "Kind, like a hostess greeting her guests. " +
     "Simple, like uncarved blocks of wood. "+
-    "Opaque, like black pools in darkened caves."+
+    "Opaque, like black pools in darkened caves. "+
     "Who can tell the secrets of their hearts and minds?"+
     "The answer exists only in Tao.",
 
@@ -56,7 +56,7 @@ var TAOS = [
     "What sort of programmers work for other companies? "+
     "They behaved badly and were unconcerned with appearances. "+
     "Their hair was long and unkempt and their clothes were wrinkled and old. "+
-    "They crashed our hospitality suite and they made rude noises during my presentation." +
+    "They crashed our hospitality suite and they made rude noises during my presentation. " +
     "The manager said: "+
     "I should have never sent you to the conference. "+
     "Those programmers live beyond the physical world. "+
@@ -84,7 +84,7 @@ var TAOS = [
     "When a program is being tested, it is too late to make design changes.",
 
     "There once was a man who went to a computer trade show. Each day as he entered, the man told the guard at the door:"+
-    "I am a great thief, renowned for my feats of shoplifting. Be forewarned, for this trade show shall not escape unplundered." +
+    "I am a great thief, renowned for my feats of shoplifting. Be forewarned, for this trade show shall not escape unplundered. " +
     "This speech disturbed the guard greatly, because there were millions of dollars of computer equipment inside, "+
     "so he watched the man carefully. But the man merely wandered from booth to booth, humming quietly to himself. "+
     "When the man left, the guard took him aside and searched his clothes, but nothing was to be found. "+
@@ -105,13 +105,13 @@ var TAOS = [
     "An operating system, replied the programmer. "+
     "The warlord uttered an exclamation of disbelief. "+
     "Surely an accounting package is trivial next to the complexity of an operating system, " +
-    "he said."+
+    "he said. "+
     "Not so, said the programmer, "+
     "When designing an accounting package, the programmer operates as a mediator between people having different ideas: "+
     "how it must operate, how its reports must appear, and how it must conform to the tax laws. "+
     "By contrast, an operating system is not limited by outside appearances. "+
     "When designing an operating system, the programmer seeks the simplest harmony between machine and ideas. "+
-    "This is why an operating system is easier to design." +
+    "This is why an operating system is easier to design. " +
     "The warlord of Wu nodded and smiled. That is all good and well, but which is easier to debug?" +
     "The programmer made no reply.",
 
@@ -121,7 +121,7 @@ var TAOS = [
     "It will take one year, said the Master promptly. "+
     "But we need this system immediately or even sooner! "+
     "How long will it take if I assign ten programmers to it?" +
-    "The Master Programmer frowned. In that case, it will take two years." +
+    "The Master Programmer frowned. In that case, it will take two years. " +
     "And what if I assign a hundred programmers to it?" +
     "The Master Programmer shrugged. Then the design will never be completed, he said.",
 
@@ -148,13 +148,13 @@ var TAOS = [
     "Why do you expect it from a machine that humans have constructed? "+
     "Computers simulate determinism; only Tao is perfect. "+
     "The rules of programming are transitory; only Tao is eternal. "+
-    "Therefore, you must contemplate Tao before you receive Enlightenment." +
+    "Therefore, you must contemplate Tao before you receive Enlightenment. " +
     " But how will I know when I have received Enlightenment?" +
-    "asked the novice."+
+    "asked the novice. "+
     "Your program will run correctly, replied the Master.",
 
     "The Master was explaining the nature of Tao to one of his novices. "+
-    "The Tao is embodied in all software -- regardless of how insignificant, said the Master."+
+    "The Tao is embodied in all software -- regardless of how insignificant, said the Master. "+
     "Is the Tao in a hand-held calculator? asked the novice. "+
     "It is, came the reply. "+
     "Is the Tao in a video game? asked the novice. " +
@@ -195,13 +195,13 @@ var TAOS = [
     "The programmer thought for a moment. I have some features that I wish to add. "+
     "This will take at least two weeks, he finally said. "+
     "Even that is too much to expect, insisted the manager, "+
-    "I will be satisfied if you simply tell me when the program is complete."+
+    "I will be satisfied if you simply tell me when the program is complete. "+
     "The programmer agreed to this. "+
     "Several years later, the manager retired. "+
     "On the way to his retirement luncheon, he discovered the programmer asleep at his terminal. "+
     "He had been programming all night.",
 
-    "A novice programmer was once assigned to code a simple financial package."+
+    "A novice programmer was once assigned to code a simple financial package. "+
     "The novice worked furiously for many days, "+
     "but when his Master reviewed his program, "+
     "he discovered it contained a screen editor, "+
@@ -247,7 +247,7 @@ var TAOS = [
 
     "A manager went to his programmers and told them: "+
     "As regards to your work hours: "+
-    "you are going to have to come in at nine in the morning and leave at five in the afternoon." +
+    "you are going to have to come in at nine in the morning and leave at five in the afternoon. " +
     "At this, all of them became angry and several resigned on the spot. "+
     "So the manager said: "+
     "All right, in that case you may set your own working hours, as long as you finish your projects on schedule. " +
@@ -329,11 +329,11 @@ var TAOS = [
     "But the two programmers remained friends until the end of their days.",
 
     "Hardware met Software on the road to Changtse. Software said: "+
-    "You are Yin and I am Yang. If we travel together, we will become famous and earn vast sums of money." +
+    "You are Yin and I am Yang. If we travel together, we will become famous and earn vast sums of money. " +
     "And so they set forth together, thinking to conquer the world. "+
     "Presently, they met Firmware, who was dressed in tattered rags and hobbled along propped on a thorny stick. "+
     "Firmware said to them: The Tao lies beyond Yin and Yang. It is silent and still as a pool of water. "+
-    "It does not seek fame; therefore, nobody knows its presence."+
+    "It does not seek fame; therefore, nobody knows its presence. "+
     "It does not seek fortune, for it is complete within itself. It exists beyond space and time. "+
     "Software and Hardware, ashamed, returned to their homes.",
 
