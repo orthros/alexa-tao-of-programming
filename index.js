@@ -360,7 +360,7 @@ var handlers = {
     'GetFact': function () {
         // Get a random quote from the tao of programming
         var quoteIndex = Math.floor(Math.random() * TAOS.length);
-        var randomQuote = TAOS[quoteIndex];
+        var randomQuote = FACTS[quoteIndex];
 
         // Create speech output
         var speechOutput = "According to the Tao: " + randomQuote;
