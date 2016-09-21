@@ -1,0 +1,19 @@
+{
+  "name": "alexa-tao-of-programming",
+  "version": "1.0.0",
+  "description": "Vends facts about the Tao of Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orthros/alexa-tao-of-programming.git"
+  },
+  "author": "orthros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orthros/alexa-tao-of-programming/issues"
+  },
+  "homepage": "https://github.com/orthros/alexa-tao-of-programming#readme"
+}
