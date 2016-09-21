@@ -252,15 +252,93 @@ var TAOS = [
     "So the manager said: "+
     "All right, in that case you may set your own working hours, as long as you finish your projects on schedule. " +
     "The programmers, now satisfied, began to come in at noon and work to the wee hours of the morning.",
-    
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+
+    "Thus spake the Master Programmer: "+
+    "You can demonstrate a program for a corporate executive, but you can't make him computer literate.",
+
+    "A novice asked the Master: "+
+    "In the East, there is a great tree-structure that men call 'Corporate Headquarters'. "+
+    " It is bloated out of shape with vice presidents and accountants. "+
+    "It issues a multitude of memos, each saying 'Go Hence!' or 'Go Hither!' and nobody knows what is meant. "+
+    "Every year new names are put onto the branches, but all to no avail. How can such an unnatural entity exist? "+
+    "The Master replied: You perceive this immense structure and are disturbed that it has no rational purpose. "+
+    "Can you not take amusement from its endless gyrations? "+
+    "Do you not enjoy the untroubled ease of programming beneath its sheltering branches? Why are you bothered by its uselessness?",
+
+    "In the East there is a shark which is larger than all other fish. "+
+    "It changes into a bird whose wings are like clouds filling the sky. "+
+    "When this bird moves across the land, it brings a message from Corporate Headquarters. "+
+    "This message it drops into the midst of the programmers, like a seagull making its mark upon the beach. "+
+    "Then the bird mounts on the wind and, with the blue sky at its back, returns home. "+
+    "The novice programmer stares in wonder at the bird, for he understands it not. "+
+    "The average programmer dreads the coming of the bird, for he fears its message. "+
+    "The Master Programmer continues to work at his terminal, unaware that the bird has come and gone.",
+
+    "The Magician of the Ivory Tower brought his latest invention for the Master Programmer to examine. "+
+    "The Magician wheeled a large black box into the Master's office while the Master waited in silence. "+
+    "This is an integrated, distributed, general-purpose workstation, " +
+    "began the Magician, ergonomically designed with a proprietary operating system, "+
+    "sixth generation languages, and multiple state of the art user interfaces. "+
+    "It took my assistants several hundred man years to construct. Is it not amazing? " +
+    "The Master Programmer raised his eyebrows slightly. "+
+    "It is indeed amazing, he said. "+
+    "Corporate Headquarters has commanded, continued the Magician, "+
+    "that everyone use this workstation as a platform for new programs. Do you agree to this? " +
+    "Certainly, replied the Master. "+
+    "I will have it transported to the Data Center immediately! " +
+    "And the Magician returned to his tower, well pleased. "+
+    "Several days later, a novice wandered into the office of the Master Programmer and said, "+
+    "I cannot find the listing for my new program. Do you know where it might be? "+
+    "Yes, replied the Master, the listings are stacked on the platform in the Data Center.",
+
+    "The Master Programmer moves from program to program without fear. No change in management can harm him. He will not be fired, even if the project is cancelled. Why is this? He is filled with Tao.",
+
+    "Thus spake the Master Programmer: "+
+    "Without the wind, the grass does not move. Without software hardware is useless.",
+
+    "A novice asked the Master: I perceive that one computer company is much larger than all others. " +
+    "It towers above its competition like a giant among dwarfs. Any one of its divisions could comprise an entire business. "+
+    "Why is this so? "+
+    "The Master replied, Why do you ask such foolish questions? That company is large because it is large. "+
+    "If it only made hardware, nobody would buy it. "+
+    "If it only made software, nobody would use it. "+
+    "If it only maintained systems, people would treat it like a servant. "+
+    "But because it combines all of these things, people think it one of the gods! "+
+    "By not seeking to strive, it conquers without effort.",
+
+    "A Master Programmer passed a novice programmer one day. "+
+    "The Master noted the novice's preoccupation with a hand-held computer game. "+
+    "Excuse me, he said, may I examine it?" +
+    "The novice bolted to attention and handed the device to the Master. " +
+    "I see that the device claims to have three levels of play: Easy, Medium, and Hard, "+
+    " said the Master. Yet every such device has another level of play, "+
+    "where the device seeks not to conquer the human, nor to be conquered by the human. "+
+    "Pray, Great Master, implored the novice, how does one find this mysterious setting? "+
+    "The Master dropped the device to the ground and crushed it with his heel. Suddenly the novice was enlightened.",
+
+    "There was once a programmer who wrote software for personal computers. "+
+    "Look at how well off I am here, he said to a mainframe programmer who came to visit. "+
+    "I have my own operating system and file storage device. I do not have to share my resources with anyone. "+
+    "The software is self-consistent and easy-to-use. Why do you not quit your present job and join me here? " +
+    "The mainframe programmer then began to describe his system to his friend, saying, " +
+    "The mainframe sits like an ancient Sage meditating in the midst of the Data Center. "+
+    "Its disk drives lie end-to-end like a great ocean of machinery. "+
+    "The software is as multifaceted as a diamond, and as convoluted as a primeval jungle. "+
+    "The programs, each unique, move through the system like a swift-flowing river. That is why I am happy where I am. "+
+    "The personal computer programmer, upon hearing this, fell silent. "+
+    "But the two programmers remained friends until the end of their days.",
+
+    "Hardware met Software on the road to Changtse. Software said: "+
+    "You are Yin and I am Yang. If we travel together, we will become famous and earn vast sums of money." +
+    "And so they set forth together, thinking to conquer the world. "+
+    "Presently, they met Firmware, who was dressed in tattered rags and hobbled along propped on a thorny stick. "+
+    "Firmware said to them: The Tao lies beyond Yin and Yang. It is silent and still as a pool of water. "+
+    "It does not seek fame; therefore, nobody knows its presence."+
+    "It does not seek fortune, for it is complete within itself. It exists beyond space and time. "+
+    "Software and Hardware, ashamed, returned to their homes.",
+
+    "Thus spake the Master Programmer: "+
+    "Time for you to leave."
 ];
 
 
